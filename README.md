@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mintokkii
 - 👀 I’m interested in videogames and music
-- 🌱 I’m currently learning C#, typescript and AzureDevOps
+- 🌱 I’m currently learning C#, Angular typescript and AzureDevOps
 - 💞️ I’m looking to collaborate on making videogames!
 - 📫 How to reach me ...
 
